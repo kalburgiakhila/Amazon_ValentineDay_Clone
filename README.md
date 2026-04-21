@@ -40,8 +40,7 @@ Open the project folder
 Run the project:
 Open index.html in your browser
 📸 Project Demo
-
-[![Watch Demo](./thumbnail.png)](./amazon.mp4)
+(./thumbnail.png)
 
 🎯 Learning Outcomes
 Strong understanding of HTML structure
@@ -51,8 +50,8 @@ Hands-on experience in building real-world UI
 Add JavaScript for interactivity
 Make it fully responsive
 Add cart and login functionality
-👩‍💻 Author
 
+👩‍💻 Author
 Akhila Kalburgi
 
 ⭐ Acknowledgement
